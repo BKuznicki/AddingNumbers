@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AddingNumbers", "AddingNumbers.pyproj", "{2F182DAF-09EE-4E06-B16E-DAE8A22E9C08}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "UnitTest", "..\UnitTest\UnitTest.pyproj", "{BDF4EDF2-6AB5-4C30-84A5-8CE6BB5E57B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F182DAF-09EE-4E06-B16E-DAE8A22E9C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F182DAF-09EE-4E06-B16E-DAE8A22E9C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF4EDF2-6AB5-4C30-84A5-8CE6BB5E57B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF4EDF2-6AB5-4C30-84A5-8CE6BB5E57B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C86D146-403E-428D-9A95-3AF4BABEA9D2}
+	EndGlobalSection
+EndGlobal
